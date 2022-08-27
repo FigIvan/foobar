@@ -1,4 +1,4 @@
-# local fenv files
+# local env files
 .env*
 
 # misc 
