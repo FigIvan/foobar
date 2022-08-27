@@ -1,0 +1,6 @@
+# local fenv files
+.env*
+
+# misc 
+.vscode
+/folder_name
